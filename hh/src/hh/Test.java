@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Test {
-
+  int a=10;
 	public static void main(String[] args) {
 List<Integer> al=new ArrayList<Integer>();
 List<Integer> even=new ArrayList<Integer>();
